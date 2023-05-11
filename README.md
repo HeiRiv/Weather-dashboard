@@ -9,7 +9,7 @@ On this assignment we learn how to use a new API, in this case a weather API in 
 - Create the website from scratch
 - Adding the framework to give it style 
 - Created API key on the Open Weather website to get the information from there
-- Created the functions on the JavaScript file so the website can run properly and aslo stablishing the local storage to keep on the website the recent searches. 
+- Created the functions on the JavaScript file so the website can run properly and also stablishing the local storage to keep on the website the recent searches. 
 
 ## Final Product
 
