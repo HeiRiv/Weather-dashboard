@@ -1,0 +1,17 @@
+.container{
+    background-color: rgb(91, 156, 196);
+    padding: 5px;
+    border: 1px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.background-image{
+   
+      background-image: url("https://www.metoffice.gov.uk/binaries/content/gallery/metofficegovuk/hero-images/weather/cloud/altocumulus.jpg");
+      background-position: center;
+      background-repeat: no-repeat;
+      background-position-x: center;
+  
+}
